@@ -26,3 +26,6 @@ cd 2024-2-kbu-advanced-programming/ch01-overview
 pyenv install 3.12
 pyenv virtualenv 3.12 python-class
 pyenv activate python-class
+
+python --version
+pyenv -v
