@@ -22,9 +22,6 @@ pyenv --version
 git clone https://github.com/mjhans/2024-2-kbu-advanced-programming.git
 cd 2024-2-kbu-advanced-programming/ch01-overview
 
-# install_pyenv_on_debian.sh 실행
-bash install_pyenv_on_debian.sh
-
 # pyenv로 Python 3.12 설치 및 가상환경 설정
 pyenv install 3.12
 pyenv virtualenv 3.12 python-class
